@@ -1,5 +1,5 @@
 --extra-index-url https://download.openmmlab.com/mmcv/dist/cu118/torch2.0.0/index.html
-https://download.openmmlab.com/mmcv/dist/cu118/torch2.0.0/mmcv-2.1.0-cp39-cp39-manylinux1_x86_64.whl
+https://download.openmmlab.com/mmcv/dist/cu118/torch2.0.0/mmcv-2.1.0-cp39-cp39-win_amd64.whl
 
 -f https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/py39_cu117_pyt200/download.html
 pytorch3d
