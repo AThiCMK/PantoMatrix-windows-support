@@ -1,7 +1,7 @@
 import os
 import time
 import numpy as np
-os.environ['PYOPENGL_PLATFORM'] = 'egl'  # or 'osmesa'
+#os.environ['PYOPENGL_PLATFORM'] = 'egl'  # or 'osmesa' (only uncomment if you properly installed EGL or mesa)
 import pyrender
 import trimesh
 import queue
