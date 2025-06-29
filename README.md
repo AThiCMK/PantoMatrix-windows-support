@@ -113,8 +113,7 @@ Demo of how to set up is available on [Colab](https://colab.research.google.com/
 git clone https://github.com/PantoMatrix/PantoMatrix.git
 cd PantoMatrix/
 
-bash setup.sh
-source /content/py39/bin/activate
+.\SetUp.bat
 
 python test_camn_audio.py --visualization 
 # if you have trouble in install pytroch3d
