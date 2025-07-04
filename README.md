@@ -48,8 +48,6 @@ You may transfer these motion parameters to other formats such as Iphone ARKit B
 <div align="center">
   <img src="assets/intro.gif" alt="Animation Example" style="width:95%; clip-path: inset(0px 0px 3px 0px);">
 </div>
-
-Welcome volunteers to contribute and collaborate on related topics. Feel free to submit the pull requests! Currently this repo is mainly maintained by haiyangliu1997@gmail.com in freetime since 2022.
  
 - **[2025/01]** Demo of how to set up inference and training is available on [Colab](https://colab.research.google.com/drive/1MeuZtBv8yUUG9FFeN8UGy78Plk4gzxT4?usp=sharing)!
 - **[2025/01]** New inference api, visualization api, evaluation api, training codebase, are available!
